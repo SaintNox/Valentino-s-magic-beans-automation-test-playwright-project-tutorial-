@@ -9,7 +9,7 @@
     // See also https://aka.ms/tsconfig/module
     "module": "esnext", // sistema de modulos de exnext que es que tiene los imports y exports mas modernos
     "target": "esnext",
-    "types": ["node"], // tipos de node que reconocen los process
+    "types": ["node"], // tipos de node que reconocen los metodos process
     // For nodejs:
     // "lib": ["esnext"],
     // "types": ["node"],
